@@ -1,12 +1,15 @@
+/* Background */
 body{
   background-color: light blue
  
 }
 
+/* making horizontal line black*/
 hr{
   background-color: black
 }
 
+/* Margin (currently broken) */
 div {
   margin:20px;
 }
