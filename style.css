@@ -1,6 +1,6 @@
 /* Background */
 body{
-  background-color: light blue
+  background-color: #add8e6
  
 }
 
@@ -10,6 +10,9 @@ hr{
 }
 
 /* Margin (currently broken) */
-div {
-  margin:20px;
+p {
+  margin-top:20px;
+  margin-bottom:20px;
+  margin-right:20px;
+  margin-left:20px;
 }
