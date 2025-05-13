@@ -6,7 +6,7 @@ body{
 
 /* making horizontal line black*/
 hr{
-  background-color: black;
+  background-color: #000000;
   height: 2px;
   border: none;
 }
