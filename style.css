@@ -7,7 +7,7 @@ body{
 /* making horizontal line black*/
 hr{
   background-color: black;
-  border:0px;
+  border:0;
 }
 
 /* Margin (currently broken) */
