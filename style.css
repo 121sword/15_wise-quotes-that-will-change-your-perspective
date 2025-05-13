@@ -18,3 +18,10 @@ p {
   margin-right:20px !important;
   margin-left:40px !important;
 }
+
+/*Making heading better*/
+h1{
+  color:##000036;
+  text-align:center;
+  text-shadow:2px 2px 5px rgba(0, 0, 0, 0.3);
+}
